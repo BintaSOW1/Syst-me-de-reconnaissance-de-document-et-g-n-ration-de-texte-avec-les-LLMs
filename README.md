@@ -1,0 +1,1 @@
+# Syst-me-de-reconnaissance-de-document-et-g-n-ration-de-texte-avec-les-LLMs
