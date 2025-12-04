@@ -1,1 +1,1 @@
-# Syst-me-de-reconnaissance-de-document-et-g-n-ration-de-texte-avec-les-LLMs
+# Systme de reconnaissance de document et generation de texte avec les LLMs
